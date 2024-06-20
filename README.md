@@ -10,3 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Supermoon-JH/LeetCode/tree/master/0001-two-sum) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0009-palindrome-number) |
