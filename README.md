@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Supermoon-JH/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Supermoon-JH/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Supermoon-JH/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Supermoon-JH/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Supermoon-JH/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/0101-symmetric-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
