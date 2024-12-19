@@ -5,14 +5,14 @@ class Solution:
         if len(arr) == 1:
             return chunks
 
-        prefix = arr[:] # 1 2 0 3
-        suffix = arr[:] # 1 2 0 3
+        prefix = arr[:] 
+        suffix = arr[:] 
         for i in range(1, len(arr)):
-            prefix[i] = max(prefix[i], prefix[i - 1]) # 1 2 2 3
+            prefix[i] = max(prefix[i], prefix[i - 1])
 
         for i in range(len(arr) - 2, -1, -1):
-            suffix[i] = min(suffix[i], suffix[i + 1]) # 0 0 0 3
-        print(prefix, suffix)
+            suffix[i] = min(suffix[i], suffix[i + 1])
+        
         for i in range(1, len(arr)):
             if prefix[i - 1] < suffix[i]:
                 chunks += 1
