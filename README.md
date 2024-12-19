@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Supermoon-JH/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Supermoon-JH/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Supermoon-JH/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Supermoon-JH/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Supermoon-JH/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Supermoon-JH/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -127,5 +130,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
