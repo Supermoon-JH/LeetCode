@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Supermoon-JH/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Supermoon-JH/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0136-single-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
