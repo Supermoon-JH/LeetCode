@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Supermoon-JH/LeetCode/tree/master/0070-climbing-stairs) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Supermoon-JH/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
 | ------- |
