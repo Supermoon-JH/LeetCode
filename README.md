@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Supermoon-JH/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Supermoon-JH/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0136-single-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Supermoon-JH/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Supermoon-JH/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
