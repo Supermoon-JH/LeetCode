@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Supermoon-JH/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Supermoon-JH/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Supermoon-JH/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Supermoon-JH/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Supermoon-JH/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Supermoon-JH/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Supermoon-JH/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Supermoon-JH/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
