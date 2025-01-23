@@ -14,11 +14,11 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            result.append(node.val)
             
-            dfs(node.right)
             dfs(node.left)
+            dfs(node.right)
+            result.append(node.val)
 
         dfs(root)
-        result.reverse()
+        #result.reverse()
         return result
