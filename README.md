@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Supermoon-JH/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Supermoon-JH/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Supermoon-JH/LeetCode/tree/master/0125-valid-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Supermoon-JH/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Supermoon-JH/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Supermoon-JH/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Supermoon-JH/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Supermoon-JH/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
