@@ -16,3 +16,16 @@ class Solution:
                 return True
             if s[i] != queue.pop(0):
                 return False
+
+        # good code
+        # if not s:
+        #     return True
+
+        # s = s.lower()
+        # new_str = ""
+
+        # for ch in s:
+        #     if ch.isalnum():
+        #         new_str += ch
+
+        # return new_str == new_str[::-1]
