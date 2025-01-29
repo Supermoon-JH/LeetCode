@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Supermoon-JH/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Supermoon-JH/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Supermoon-JH/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/Supermoon-JH/LeetCode/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Supermoon-JH/LeetCode/tree/master/0112-path-sum) |
+| [0684-redundant-connection](https://github.com/Supermoon-JH/LeetCode/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Supermoon-JH/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -229,4 +231,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Supermoon-JH/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Supermoon-JH/LeetCode/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Supermoon-JH/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
