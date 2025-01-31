@@ -16,12 +16,26 @@ class Solution:
         # except RuntimeError:
         #     return True
         # not recommended
-        slow = fast = head
 
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-            if slow == fast:
+        # slow = fast = head
+
+        # while fast and fast.next:
+        #     slow = slow.next
+        #     fast = fast.next.next
+        #     if slow == fast:
+        #         return True
+
+        # return False
+        # recommended
+
+        cur = head
+        seen = set()
+
+        while cur:
+            if cur in seen:
                 return True
+            seen.add(cur)
+            # print(cur)
+            cur = cur.next
 
         return False
