@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Supermoon-JH/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Supermoon-JH/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1364-tuple-with-same-product](https://github.com/Supermoon-JH/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Supermoon-JH/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Supermoon-JH/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Supermoon-JH/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Supermoon-JH/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0136-single-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1364-tuple-with-same-product](https://github.com/Supermoon-JH/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Supermoon-JH/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Supermoon-JH/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Supermoon-JH/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
