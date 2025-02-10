@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/Supermoon-JH/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Supermoon-JH/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Supermoon-JH/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Supermoon-JH/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Supermoon-JH/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Supermoon-JH/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Supermoon-JH/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Supermoon-JH/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/Supermoon-JH/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
+| [3447-clear-digits](https://github.com/Supermoon-JH/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
