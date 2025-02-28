@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Supermoon-JH/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Supermoon-JH/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Supermoon-JH/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1170-shortest-common-supersequence](https://github.com/Supermoon-JH/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1524-string-matching-in-an-array](https://github.com/Supermoon-JH/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Supermoon-JH/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Supermoon-JH/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Supermoon-JH/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Supermoon-JH/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Supermoon-JH/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1170-shortest-common-supersequence](https://github.com/Supermoon-JH/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Supermoon-JH/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
